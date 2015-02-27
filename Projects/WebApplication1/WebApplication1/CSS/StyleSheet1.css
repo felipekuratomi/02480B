@@ -1,0 +1,21 @@
+﻿body {
+    background-image: url(../Imagens/1339798648770-415x260.jpg);
+    background-repeat: repeat;
+}
+
+h1 {
+    color: blue;
+    font-family: Helvetica;
+
+}
+
+#segundo {
+    font-style: italic;
+
+}
+
+
+.destaque {
+    background: yellow;
+
+}
