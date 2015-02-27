@@ -1,0 +1,19 @@
+﻿html {
+    background-color: #ffd800;
+    font-size:62.5%;
+    font-family:Calibri;
+}
+
+
+body {
+    margin:0;
+    font-size:1.8rem;
+
+
+}
+
+.container {
+    padding: 0 1rem;
+    max-width: 9rem;
+    margin:0 auto;
+}

@@ -1,0 +1,8 @@
+E:\Mod02\Labfiles\Starter\Exercise 1\ContosoConf\ContosoConf\bin\ContosoConf.dll
+E:\Mod02\Labfiles\Starter\Exercise 1\ContosoConf\ContosoConf\bin\ContosoConf.pdb
+E:\Mod02\Labfiles\Starter\Exercise 1\ContosoConf\ContosoConf\bin\ContosoConf.xml
+E:\Mod02\Labfiles\Starter\Exercise 1\ContosoConf\ContosoConf\obj\Debug\ContosoConf.Resources.resources
+E:\Mod02\Labfiles\Starter\Exercise 1\ContosoConf\ContosoConf\obj\Debug\ContosoConf.vbproj.GenerateResource.Cache
+E:\Mod02\Labfiles\Starter\Exercise 1\ContosoConf\ContosoConf\obj\Debug\ContosoConf.dll
+E:\Mod02\Labfiles\Starter\Exercise 1\ContosoConf\ContosoConf\obj\Debug\ContosoConf.xml
+E:\Mod02\Labfiles\Starter\Exercise 1\ContosoConf\ContosoConf\obj\Debug\ContosoConf.pdb
