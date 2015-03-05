@@ -1,0 +1,4 @@
+C:\Users\Student\Desktop\02480B\02480B\Projects\HerancaDemo\HerancaDemo\bin\HerancaDemo.dll
+C:\Users\Student\Desktop\02480B\02480B\Projects\HerancaDemo\HerancaDemo\bin\HerancaDemo.pdb
+C:\Users\Student\Desktop\02480B\02480B\Projects\HerancaDemo\HerancaDemo\obj\Debug\HerancaDemo.dll
+C:\Users\Student\Desktop\02480B\02480B\Projects\HerancaDemo\HerancaDemo\obj\Debug\HerancaDemo.pdb

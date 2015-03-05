@@ -1,0 +1,5 @@
+C:\Users\Student\Documents\Visual Studio 2012\Projects\JqueryDemo\JqueryDemo\bin\JqueryDemo.dll
+C:\Users\Student\Documents\Visual Studio 2012\Projects\JqueryDemo\JqueryDemo\bin\JqueryDemo.pdb
+C:\Users\Student\Documents\Visual Studio 2012\Projects\JqueryDemo\JqueryDemo\obj\Debug\JqueryDemo.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\Visual Studio 2012\Projects\JqueryDemo\JqueryDemo\obj\Debug\JqueryDemo.dll
+C:\Users\Student\Documents\Visual Studio 2012\Projects\JqueryDemo\JqueryDemo\obj\Debug\JqueryDemo.pdb

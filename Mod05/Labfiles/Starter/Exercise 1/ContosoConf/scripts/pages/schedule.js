@@ -9,6 +9,26 @@ var track2CheckBox = document.getElementById("show-track-2");
 //       Save the array into the schedule variable
 //       Then call displaySchedule()
 
+
+function downloadSchedule() {
+    var request = new XMLHttpRequest;
+    request.open("GET", "/schedule/list", true);
+    request.onreadstatechange = function () {
+        if (request.readyState === 4) {
+            try{
+                var response = JSON.parse(request.responseText);
+                if respon
+            }
+        }
+
+    }
+}
+
+
+
+
+
+
 function createSessionElement(session) {
     var li = document.createElement("li");
 

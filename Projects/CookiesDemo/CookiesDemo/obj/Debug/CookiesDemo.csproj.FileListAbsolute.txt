@@ -1,0 +1,5 @@
+C:\Users\Student\Desktop\02480B\02480B\Projects\CookiesDemo\CookiesDemo\bin\CookiesDemo.dll
+C:\Users\Student\Desktop\02480B\02480B\Projects\CookiesDemo\CookiesDemo\bin\CookiesDemo.pdb
+C:\Users\Student\Desktop\02480B\02480B\Projects\CookiesDemo\CookiesDemo\obj\Debug\CookiesDemo.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\02480B\02480B\Projects\CookiesDemo\CookiesDemo\obj\Debug\CookiesDemo.dll
+C:\Users\Student\Desktop\02480B\02480B\Projects\CookiesDemo\CookiesDemo\obj\Debug\CookiesDemo.pdb

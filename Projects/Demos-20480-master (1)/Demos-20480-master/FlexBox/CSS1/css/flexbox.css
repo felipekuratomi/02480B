@@ -1,0 +1,19 @@
+﻿
+.quadrado:hover {
+    background-color: green;
+    color: white;
+}
+.quadrado {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    margin: 5px;
+    font-size: 80px;
+    text-align: center;
+}
+
+#container {
+    display: flex;
+    flex-flow: wrap;
+ 
+}

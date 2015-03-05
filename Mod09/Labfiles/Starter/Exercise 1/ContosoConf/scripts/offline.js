@@ -21,12 +21,18 @@
 
 
     // TODO: if currently offline, hide navigation links that require online
-
+    if (!navigator.onLine) {
+        hideLinksThatRequireOnline();
+    }
     // TODO: add onoffline and ononline events to document.body,
     //       which either hide or show navigation links.
-
+    document.body.ononline = hideLinksThatRequireOnline;
+    document.body.onoffline = showLinks;
     // TODO: also handle the applicationCache error event to hide links
+    applicationCache.addEventListener = ("error", hideLinksThatRequireOnline, false);
     
+
+
 } ());
 // SIG // Begin signature block
 // SIG // MIIaVgYJKoZIhvcNAQcCoIIaRzCCGkMCAQExCzAJBgUr

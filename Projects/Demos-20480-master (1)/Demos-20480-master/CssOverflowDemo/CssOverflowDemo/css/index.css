@@ -1,0 +1,22 @@
+﻿body {
+	
+}
+div {
+	width: 200px;
+	height: 200px;
+	float: left;
+	margin: 10px;
+	background: coral;
+}
+
+#hidden {
+	overflow: hidden;
+}
+
+#scroll {
+	overflow: scroll;
+}
+
+#visible {
+	overflow: visible;
+}

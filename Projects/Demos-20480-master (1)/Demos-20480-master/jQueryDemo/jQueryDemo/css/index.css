@@ -1,0 +1,20 @@
+﻿body {
+}
+
+.alerta {
+	background-color: yellow;
+	color: red;
+	font-size: 20px;
+	border-color: black;
+	border-width: 3px;
+}
+
+
+input[type=checkbox]:checked + span {
+	background-color: yellow;
+	color: red;
+}
+
+input[type=checkbox]:checked + span:after {
+	content: " (isto é feito apenas via css, jQuery não é necessário)";
+}

@@ -1,0 +1,35 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>AJAX usando Javascript puro</title>
+	<link href="css/index.css" rel="stylesheet" />
+</head>
+<body>
+	<h1>AJAX usando Javascript puro</h1>
+
+	<div>
+		<button id="carregarClientes">Carregar Clientes</button>
+		<ul id="listaDeClientes"></ul>
+	</div>
+
+	<div>
+		<input type="number" id="id" placeholder="Id" />
+		<br />
+		<input type="text" id="nome" placeholder="Nome" />
+		<br />
+		<input type="text" id="endereco" placeholder="Endereço" />
+		<br />
+		<button id="salvarCliente">Salvar</button>
+	</div>
+
+	<div>
+		<input type="number" id="idExcluir" placeholder="Id do cliente" />
+		<br />
+		<button id="excluirCliente">Excluir cliente</button>
+	</div>
+
+	<script src="js/carregarClientes.js"></script>
+	<script src="js/salvarCliente.js"></script>
+	<script src="js/excluirCliente.js"></script>
+</body>
+</html>

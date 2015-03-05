@@ -1,0 +1,5 @@
+C:\Users\Student\Desktop\02480B\02480B\Mod09\Labfiles\Starter\Exercise 1\ContosoConf\bin\ContosoConf.dll
+C:\Users\Student\Desktop\02480B\02480B\Mod09\Labfiles\Starter\Exercise 1\ContosoConf\bin\ContosoConf.pdb
+C:\Users\Student\Desktop\02480B\02480B\Mod09\Labfiles\Starter\Exercise 1\ContosoConf\obj\Debug\ContosoConf.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\02480B\02480B\Mod09\Labfiles\Starter\Exercise 1\ContosoConf\obj\Debug\ContosoConf.dll
+C:\Users\Student\Desktop\02480B\02480B\Mod09\Labfiles\Starter\Exercise 1\ContosoConf\obj\Debug\ContosoConf.pdb
