@@ -1,0 +1,35 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <input type ="text" id="mensagem"/>
+    <input type="button" id="enviarMensagem" value="Enviar"/>
+    <input type="hidden" id="nomeUsuario"/>
+
+    <script src="Scripts/jquery-1.6.4.js"></script>
+    <script src="Scripts/jquery.signalR-2.2.0.js"></script>
+    <script src="/signalr/hubs"></script>
+    <script>
+        $(function () {
+            var chat = $.connection.chatHub;
+            chat.client.broadcastMessage = function (nome, mensagem) {
+                $("#discussao").append("<li>" + nome + ": "+ mensagem + "</li>");
+            };
+            $("#nomeUsuario").val(prompt("Quem é você?",""));
+            $("#mensagem").val("").focus();
+            $.connection.hub.start().done(function () {
+                $("#enviarMensagem").click(function () {
+                    chat.server.send($("#nomeUsuario").val(), $("#mensagem").val());
+                    $("#mensagem").focus();
+                });    
+            });
+        });
+
+
+    </script>
+
+
+</body>
+</html>
